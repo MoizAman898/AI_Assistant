@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+.rag_index/
+.vscode/
+notifications.log
+customer_messages.log
